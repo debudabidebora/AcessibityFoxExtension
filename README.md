@@ -1,2 +1,1 @@
-# AcessibityFoxExtension
-Projeto Profissional
+Utilizar de um site para informar as pessoas sobre a utilização dessa extensão, colocando-o ao ar com um servidor por meio da nuvem Netlify e utilizando HTML, CSS e Javascript para construção das informações dentro do website
